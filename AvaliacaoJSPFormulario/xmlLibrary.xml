@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+
+<xmlLibrary>
+    <play publicationYear="1898">
+        <title>Arms &amp;  The Man</title>
+        <author>George Bernard Shaw</author>
+        <play description="">Comedy dealing with the futility of war
+            and the hypocrisy of human nature.</play>
+    </play>
+    <play publicationYear="1950">
+        <title>The Mousetrap</title>
+        <author>Agatha Christie</author>
+        <play description="">A traditional whodunnit
+            with an extraordinary twist.</play>
+    </play>
+</xmlLibrary>
